@@ -1,0 +1,7 @@
+{
+  "cfg_grad":
+    {
+      "filter" : "laplace",
+      "number_of_rectangles": 5
+    }
+}
