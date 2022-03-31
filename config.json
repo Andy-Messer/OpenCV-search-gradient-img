@@ -2,6 +2,6 @@
   "cfg_grad":
     {
       "filter" : "laplace",
-      "number_of_rectangles": 5
+      "color_density" : 5
     }
 }
